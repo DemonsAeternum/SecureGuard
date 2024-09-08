@@ -51,7 +51,7 @@ As a user or server admin, you have the right to:
 - **Correction**: Correct any inaccurate or incomplete information.
 - **Deletion**: Request the deletion of your data, including backups, moderation logs, or any other data stored by SecureGuard.
 
-Requests can be made by contacting us at [Your Email Address].
+Requests can be made by contacting me at demonsaeternum@gmail.com.
 
 ## 8. Changes to This Privacy Policy
 
@@ -59,4 +59,4 @@ We may update this Privacy Policy from time to time. It is your responsibility t
 
 ## 9. Contact Information
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at [Your Email Address].
+If you have any questions or concerns regarding this Privacy Policy, please contact me at demonsaeternum@gmail.com.
